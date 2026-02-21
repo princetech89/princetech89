@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, ML, AI ,ML React, Frontend, Backend,Devops**
 
-- 👨‍💻 All of my projects are available at [https://princetech89.github.io/Prince-CHOURASIYA-AIML-SOFTWARE-DEVELOPER/](https://princetech89.github.io/Prince-CHOURASIYA-AIML-SOFTWARE-DEVELOPER/)
+- 👨‍💻 All of my projects are available at [My Portfolio]( https://princetech89.github.io/PORTFOLIO/)
 
 - 💬 Ask me about **Building scalable applications using Python, JavaScript, and modern frameworks**
 
